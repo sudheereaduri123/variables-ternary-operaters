@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+table{
+  border-collapse: collapse;
+  border: 2px solid gold;
+  margin: 20px;
+}
+
+th,
+td{
+  border-collapse: collapse;
+  border: 2px solid burlywood;
+  margin: 20px;
+  
+}
